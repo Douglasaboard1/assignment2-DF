@@ -1,0 +1,32 @@
+   species             island         
+ Length:344         Length:344        
+ Class :character   Class :character  
+ Mode  :character   Mode  :character  
+                                      
+                                      
+                                      
+                                      
+ bill_length_mm  bill_depth_mm  
+ Min.   :32.10   Min.   :13.10  
+ 1st Qu.:39.23   1st Qu.:15.60  
+ Median :44.45   Median :17.30  
+ Mean   :43.92   Mean   :17.15  
+ 3rd Qu.:48.50   3rd Qu.:18.70  
+ Max.   :59.60   Max.   :21.50  
+ NA's   :2       NA's   :2      
+ flipper_length_mm  body_mass_g  
+ Min.   :172.0     Min.   :2700  
+ 1st Qu.:190.0     1st Qu.:3550  
+ Median :197.0     Median :4050  
+ Mean   :200.9     Mean   :4202  
+ 3rd Qu.:213.0     3rd Qu.:4750  
+ Max.   :231.0     Max.   :6300  
+ NA's   :2         NA's   :2     
+     sex                 year     
+ Length:344         Min.   :2007  
+ Class :character   1st Qu.:2007  
+ Mode  :character   Median :2008  
+                    Mean   :2008  
+                    3rd Qu.:2009  
+                    Max.   :2009  
+                                  
